@@ -1,0 +1,15 @@
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\bin\Debug\lecture4.exe.config
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\bin\Debug\lecture4.exe
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\bin\Debug\lecture4.pdb
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4.csprojAssemblyReference.cache
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\MainWindow.g.cs
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\App.g.cs
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4_MarkupCompile.cache
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4_MarkupCompile.lref
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\MainWindow.baml
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4.g.resources
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4.Properties.Resources.resources
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4.csproj.GenerateResource.cache
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4.csproj.CoreCompileInputs.cache
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4.exe
+C:\Users\kammo\source\repos\HowtowriteXAML(udemy)\lecture4\obj\Debug\lecture4.pdb

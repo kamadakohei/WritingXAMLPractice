@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Stretch"
-                    Margin="10, 20, 30, 40">
+                    Margin="10, 20, 30, 50">
             <Label Content="文字が書ける" />
             <TextBox Text="0000" TextChanged="TextBox_TextChanged"/>
             <Button Content="ボタンです"/>
